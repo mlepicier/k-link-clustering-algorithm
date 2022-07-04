@@ -1,7 +1,7 @@
 # K-Link Clustering Algorithm
 
 ## Abstract:
-<p align="justify"> <i>This project consist of implementing a k-link clustering algorithm to optimize allocation of product category amongst a set of harehouses to minimize the splitting of e-commerce orders and lead to logistics cost reduction. This has a wide range of <b>different business applications</b> particuliarly in data mining to find patterns from network optimization to market basket-analysis, and in the world of finance for portfolio optimization. This project was conducted from September 2020 to January 2021 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</i></p>
+<p align="justify"> This project consist of implementing a k-link clustering algorithm to optimize allocation of product category amongst a set of harehouses to minimize the splitting of e-commerce orders and lead to logistics cost reduction. This has a wide range of <b>different business applications</b> particuliarly in data mining to find patterns from network optimization to market basket-analysis, and in the world of finance for portfolio optimization. This project was conducted from September 2020 to January 2021 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</p>
 
 ## Repository Assets:
 
