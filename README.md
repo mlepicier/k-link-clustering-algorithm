@@ -1,14 +1,14 @@
 # K-Link Clustering Algorithm
 
 ## Abstract:
-<i>This project consist of implementing a k-link clustering algorithm to optimize allocation of product category amongst a set of harehouses to minimize the splitting of e-commerce orders and lead to logistics cost reduction. This has a wide range of <b>different business applications</b> particuliarly in data mining to find patterns from network optimization to market basket-analysis, and in the world of finance for portfolio optimization. This project was conducted from September 2020 to January 2021 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</i><br/>
+<p align="justify"> <i>This project consist of implementing a k-link clustering algorithm to optimize allocation of product category amongst a set of harehouses to minimize the splitting of e-commerce orders and lead to logistics cost reduction. This has a wide range of <b>different business applications</b> particuliarly in data mining to find patterns from network optimization to market basket-analysis, and in the world of finance for portfolio optimization. This project was conducted from September 2020 to January 2021 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</i></p>
 
 ## Repository Assets:
 
 - [CPLEX Linear Models](linear_models_cplex)
 - [KLCA Heuristic Notebook](klca_heuristic_python)
 - [Order Datasets](data)
-- [Project Report](k-link_report.pdf) - To be translated in English
+- [Project Report](k-link_report.pdf) - To be translated to English
 
 ## Business Context:
 <p align="justify"> In e-commerce, many customers favor companies that offer shipping costs. Indeed, the latter can represent a significant cost for the customer who can therefore cancel his order at the last moment. Surveys confirm this: according to a study conducted by <i>PayPal</i> and <i>ComScore</i>, 43% of French Internet users do not make a purchase, despite having put together a cart because of high shipping costs. We can therefore say that offering shipping costs allows to get rid of the the main obstacle to online purchasing. In order to be more competitive and to attract more and more new customers, it is therefore interesting and judicious for a company to offer these costs related to delivery. But caution, this means that these costs will be charged to the company, which can impact the profitability and therefore implicitly the sustainability of the business. The decision to offer delivery costs should not be taken lightly and must be based on a solid, successful and controlled strategy.</p>
